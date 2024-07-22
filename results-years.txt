@@ -1,0 +1,19 @@
+Action	Fight Club 	4.3
+Adventure	Spirited Away (Sen to Chihiro no kamikakushi) 	4.2
+Animation	Spirited Away (Sen to Chihiro no kamikakushi) 	4.2
+Children	Toy Story 3 	4.1
+Comedy	Pulp Fiction 	4.2
+Crime	Shawshank Redemption, The 	4.4
+Documentary	Hoop Dreams 	4.3
+Drama	Shawshank Redemption, The 	4.4
+Fantasy	Spirited Away (Sen to Chihiro no kamikakushi) 	4.2
+Film-Noir	Miller's Crossing 	4.2
+Horror	Silence of the Lambs, The 	4.2
+IMAX	Dark Knight, The 	4.2
+Musical	Dancer in the Dark 	4.0
+Mystery	Usual Suspects, The 	4.2
+Romance	Amelie (Fabuleux destin d'Amélie Poulain, Le) 	4.2
+Sci-Fi	Matrix, The 	4.2
+Thriller	Fight Club 	4.3
+War	Schindler's List 	4.2
+Western	Schindler's List 	4.2

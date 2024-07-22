@@ -1,0 +1,19 @@
+Action	Once Upon a Time in the West (C'era una volta il West) 	4.3
+Adventure	Lawrence of Arabia 	4.3
+Animation	Grave of the Fireflies (Hotaru no haka) 	4.2
+Children	Toy Story 3 	4.1
+Comedy	Philadelphia Story, The 	4.3
+Crime	Shawshank Redemption, The 	4.4
+Documentary	Hoop Dreams 	4.3
+Drama	Streetcar Named Desire, A 	4.5
+Fantasy	Princess Bride, The 	4.2
+Film-Noir	Sunset Blvd. (a.k.a. Sunset Boulevard) 	4.3
+Horror	Rosemary's Baby 	4.2
+IMAX	Dark Knight, The 	4.2
+Musical	Singin' in the Rain 	4.1
+Mystery	Rear Window 	4.3
+Romance	Sunset Blvd. (a.k.a. Sunset Boulevard) 	4.3
+Sci-Fi	Logan 	4.3
+Thriller	Fight Club 	4.3
+War	Ran 	4.4
+Western	Ran 	4.4
